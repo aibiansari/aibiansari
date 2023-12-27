@@ -49,7 +49,7 @@
     <br/>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=false&include_all_commits=false&border_radius=12&count_private=true"/> 
     <br/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&border_radius=12&include_all_commits=true&count_private=true&layout=compact" />
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&border_radius=12&include_all_commits=true&count_private=true" />
     
 <br/><br/>
 
