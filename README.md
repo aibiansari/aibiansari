@@ -46,10 +46,10 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&theme=radical&hide_border=false&include_all_commits=false&count_private=true"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&theme=transparent&hide_border=false&include_all_commits=false&count_private=true"/>
   <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&theme=tokyonight&hide_border=false" />
   <br/>
-  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=radical&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
+  <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact" />
 </div>
 
 <br/><br/>
