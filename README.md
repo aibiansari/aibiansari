@@ -14,7 +14,7 @@
  
  🌱 I’m currently learning **GoJS, NextJS**
 
-💬 Ask me about **Node.js, React, TailwindCSS... or anything [here](https://github.com/aibiansari/aibiansari/issues)**
+💬 Ask me about **Node.js, React... or anything [here](https://github.com/aibiansari/aibiansari/issues)**
 
 ⚡ Fun fact **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
 
@@ -48,7 +48,7 @@
     <br/>
     <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=false&include_all_commits=false&border_radius=12&count_private=true"/> 
     <br/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&card_width=500px&border_radius=12&count_private=true&layout=compact" />
+    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&border_radius=12&count_private=true&layout=compact" />
 
 </div>
 
