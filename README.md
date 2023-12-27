@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <a href="https://github.com/Mistle-Diagrams" target="_blank">**MISTLE**</a>
+ 🔭 I’m currently working on <a href="https://github.com/Mistle-Diagrams" target="_blank" >**MISTLE**</a>
  
  🌱 I’m currently learning **GoJS, NextJS**
 
