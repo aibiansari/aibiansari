@@ -46,7 +46,7 @@
 <h2 align="center">⚡ Stats ⚡</h2>
 <br>
 <div align=center>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&hide_rank=true&theme=tokyonight&hide_border=false&include_all_commits=false&border_radius=12&count_private=true"/>
+    <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&theme=tokyonight&hide_border=false&include_all_commits=false&border_radius=12&count_private=true"/>
      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&theme=tokyonight&border_radius=12&hide_border=false" />
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&include_all_commits=false&border_radius=12&count_private=true&layout=compact" />
 
