@@ -1,10 +1,11 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aibiansari.aibiansari" />
-
+<div align="right">
+    [![](https://visitcount.itsvg.in/api?id=aibiansari&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+</div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah+Ansari!;" />
 </h1>
 
-<h3 align="center">I'm a React Front-end Developer</h3>
+<h3 align="center">I'm a React Front-end Developer </h3>
 
 <br/>
 
@@ -17,7 +18,6 @@
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/aibiansari/aibiansari/issues)**
 
 📬 You can reach me via this [email](aibiansari1@gmail.com)
-
 
  </div>
 
