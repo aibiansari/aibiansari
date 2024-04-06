@@ -1,5 +1,7 @@
 <div align="right">
-    [![](https://visitcount.itsvg.in/api?id=aibiansari&label=Profile%20Views&color=6&icon=6&pretty=true)](https://visitcount.itsvg.in)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=aibiansari&label=Profile%20Views&color=0&icon=6&pretty=true" />
+</a>
 </div>
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah+Ansari!;" />
@@ -16,6 +18,8 @@
  🌱 I’m currently learning **GoJS, NextJS**
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/aibiansari/aibiansari/issues)**
+
+🍻 Fun fact : **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
 
 📬 You can reach me via this [email](aibiansari1@gmail.com)
 
