@@ -16,7 +16,7 @@
 
 💬 Ask me about **Node.js, React... or anything [here](https://github.com/aibiansari/aibiansari/issues)**
 
-⚡ Fun fact **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
+📬 You can reach me via this [email](aibiansari1@gmail.com)
 
 
  </div>
@@ -39,10 +39,10 @@
   <br>
   <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/aibiansari/aibiansari/output/github-contribution-grid-snake.svg" />
   
-  <br/><br/><br/>
+  <br/><br/>
 </div>
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">⚡Github Stats⚡</h2>
 <br>
 <div align=center>
      <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&theme=tokyonight&border_radius=12&hide_border=false" /> 
@@ -52,6 +52,10 @@
     <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&border_radius=12&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Banking-Management-System" />
     
 <br/><br/>
+
+<hr/>
+
+<h2 align="center">✨ Socials ✨</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/603851352690655243) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aibiansari/)
