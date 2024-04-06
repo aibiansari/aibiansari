@@ -21,8 +21,6 @@
 
 🍻 Fun fact : **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
 
-📬 You can reach me via this [email](aibiansari1@gmail.com)
-
  </div>
 
  <hr/>
@@ -64,7 +62,8 @@
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/603851352690655243) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aibiansari/)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aibiansari/)
-
+<br/><br/>
+📬 You can reach me via this [email](mailto:aibiansari1@gmail.com)
 </div>
 
 <hr/>
