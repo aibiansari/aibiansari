@@ -4,7 +4,7 @@
 </a>
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah+Ansari!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah!;" />
 </h1>
 
 <h3 align="center">I'm a React Front-end Developer </h3>
