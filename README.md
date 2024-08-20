@@ -4,36 +4,62 @@
 </a>
 </div>
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=36&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Futura&size=40&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah!;" />
 </h1>
 
-<h3 align="center">I'm a React Front-end Developer </h3>
+<h3 align="center">I'm a React Frontend Developer </h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently working on <a href="https://github.com/Mistle-Diagrams/Mistle" target="_blank" >**MISTLE**</a>
- 
- 🌱 I’m currently learning **GoJS, NextJS**
+  
+ 🔭 I’m currently working on my personal projects <a href="https://github.com/aibiansari/schnell-image-generator" target="_blank" class="font-bold text-blue-500 hover:underline">Schnell</a> and <a href="https://github.com/aibiansari/Linkrary" target="_blank" class="font-bold text-blue-500 hover:underline">Linkrary</a>
 
-💬 Ask me about **Node.js, React... or anything [here](https://github.com/aibiansari/aibiansari/issues)**
+🌱 I’m passionate about <span class="font-bold">React, Next.js, TypeScript & Tailwind CSS</span>
+
+💻 I’ve worked with <span class="font-bold">HTML, CSS, JavaScript, GoJS, Next.js & React</span>
+
+💬 Ask me about <span class="font-bold">React, GoJS, Next.js, Web Development, or anything</span> <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
+
 
 🍻 Fun fact : **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
 
  </div>
 
- <hr/>
+ <hr/><br/>
  
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
+
+<table><tr><td valign="top" width="25%">
+
+### Frontend  
+<div align="center">  
+       <img src="https://skillicons.dev/icons?i=react,tailwind,ai,ps&perline=4" /> 
+</div>
+ </td><td valign="top" width="25%">
+        
+### Languages
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,figma,mongodb,tailwind,git,javascript,typescript" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,nextjs" />
-     <img src="https://skillicons.dev/icons?i=github,atom,bash,ae,ai,ps,vim" /><br>
+       <img src="https://skillicons.dev/icons?i=html,css,js,ts&perline=4" /> 
 </div>
 
-<br/>
+</td><td valign="top" width="25%">
+
+### Tools
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,figma,vscode&perline=4" /> 
+</div>
+
+</td><td valign="top" width="25%">
+  
+### Others
+<div align="center">
+       <img src="https://skillicons.dev/icons?i=next,nodejs,npm,mongodb&perline=4" />  
+</div>
+</td>
+</tr></table>
+
+<br/><br/>
 <hr/>
 
 <div align="center">
@@ -46,23 +72,45 @@
 
 <h2 align="center">⚡Github Stats⚡</h2>
 <br>
+ <p align="center">
+   <a href="https://github.com/aibiansari"> 
+     <img width="75.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&show_icons=true&locale=en&layout=demo&theme=tokyonight&border_radius=12&hide_border=false" /> 
+   </a>  
+ </p>
+ 
 <div align=center>
-     <img width=390 src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&theme=tokyonight&border_radius=12&hide_border=false" /> 
-    <br/>
-    <img width=390 src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&rank_icon=github&theme=tokyonight&hide_border=false&include_all_commits=false&border_radius=12&count_private=true"/> 
-    <br/>
-    <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&theme=tokyonight&hide_border=false&border_radius=12&include_all_commits=true&count_private=true&layout=compact&exclude_repo=Banking-Management-System" />
-    
-<br/><br/>
 
+<p align="center">
+    <a href="https://github.com/aibiansari">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=12"/>
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=12" />
+    </a>
+</p>
+<!-- Activity Graph -->
+<p align="center">
+  <a href="https://github.com/aibiansari">
+    <img height=250 src="https://github-readme-activity-graph.vercel.app/graph?username=aibiansari&bg_color=1a1b27&color=70a5fd&line=38bdae&point=38bdae&area_color=79FE96&border_radius=24.5&title_color=bf91f3&hide_border=false"/>
+  </a> 
+</p>
+    
+<br/>
+
+<hr/>
+<h2 align="center">🏆 Trophies 🏆</h2>
+<br/>
+  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aibiansari&theme=onedark&no-bg=true&no-frame=true" alt="aibiansari" /></a> </p>
+  <br/>
 <hr/>
 
 <h2 align="center">✨ Socials ✨</h2>
 
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.com/users/603851352690655243) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/aibiansari/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/aibiansari/)
-<br/><br/>
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/603851352690655243)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aibiansari/)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/aibiansari/)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@aibiansari)
+
+
+<br/><br/><br/>
 📬 You can reach me via this [email](mailto:aibiansari1@gmail.com)
 </div>
 
