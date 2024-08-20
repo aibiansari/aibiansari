@@ -15,11 +15,11 @@
   
  🔭 I’m currently working on my personal projects <a href="https://github.com/aibiansari/schnell-image-generator" target="_blank" class="font-bold text-blue-500 hover:underline">Schnell</a> and <a href="https://github.com/aibiansari/Linkrary" target="_blank" class="font-bold text-blue-500 hover:underline">Linkrary</a>
 
-🌱 I’m passionate about <span class="font-bold">React, Next.js, TypeScript & Tailwind CSS</span>
+🌱 I’m passionate about **React, Next.js, TypeScript & Tailwind CSS**
 
-💻 I’ve worked with <span class="font-bold">HTML, CSS, JavaScript, GoJS, Next.js & React</span>
+💻 I’ve worked with **HTML, CSS, JavaScript, GoJS, Next.js & React**
 
-💬 Ask me about <span class="font-bold">React, GoJS, Next.js, Web Development, or anything</span> <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
+💬 Ask me about **React, GoJS, Next.js, Web Development** or anything <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
 
 
 🍻 Fun fact : **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
