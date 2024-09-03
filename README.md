@@ -19,7 +19,7 @@
 
 💻 I’ve worked with **HTML, CSS, JavaScript, GoJS, Next.js & React**
 
-💬 Ask me about **React, GoJS, Next.js, Web Development** or anything <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
+💬 Ask me about **React, Next.js, Tailwind CSS, Web Development** or anything <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
 
 
 🍻 Fun fact : **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
