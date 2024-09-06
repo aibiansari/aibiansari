@@ -1,16 +1,23 @@
+<!-- Introduction -->
+
+<!-- Visit Count Badge -->
 <div align="right">
 <a href="https://visitcount.itsvg.in">
   <img src="https://visitcount.itsvg.in/api?id=aibiansari&label=Profile%20Views&color=0&icon=3&pretty=true" />
 </a>
 </div>
+
+<!-- Animated Name -->
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Futura&size=40&center=true&vCenter=true&width=500&height=60&duration=4000&lines=Hello+There!+👋;+I'm+Abdullah!;" />
 </h1>
 
+<!-- Subtitle -->
 <h3 align="center">I'm a React Frontend Developer </h3>
 
 <br/>
 
+<!-- Introduction -->
 <div align="center">
   
  🔭 I’m currently working on my personal projects <a href="https://github.com/aibiansari/schnell-image-generator" target="_blank" class="font-bold text-blue-500 hover:underline">Schnell</a> and <a href="https://github.com/aibiansari/Linkrary" target="_blank" class="font-bold text-blue-500 hover:underline">Linkrary</a>
@@ -28,6 +35,7 @@
 
  <hr/><br/>
  
+ <!-- Languages-Frameworks-Tools -->
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
 <table><tr><td valign="top" width="25%">
@@ -62,6 +70,7 @@
 <br/><br/>
 <hr/>
 
+<!-- Contributions Snake -->
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
@@ -70,8 +79,11 @@
   <br/><br/>
 </div>
 
+<!-- Stats -->
 <h2 align="center">⚡Github Stats⚡</h2>
 <br>
+
+<!-- Streak Stats -->
  <p align="center">
    <a href="https://github.com/aibiansari"> 
      <img width="75.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&show_icons=true&locale=en&layout=demo&theme=tokyonight&border_radius=12&hide_border=false" /> 
@@ -80,12 +92,14 @@
  
 <div align=center>
 
+<!-- Commits & Languages -->
 <p align="center">
     <a href="https://github.com/aibiansari">
         <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aibiansari&show_icons=true&rank_icon=github&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=12"/>
         <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aibiansari&langs_count=12&layout=compact&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=false&border_radius=12" />
     </a>
 </p>
+
 <!-- Activity Graph -->
 <p align="center">
   <a href="https://github.com/aibiansari">
@@ -101,10 +115,13 @@
   <p align="center"> <a href="https://github.com/aibiansari"><img src="https://github-profile-trophy.vercel.app/?username=aibiansari&theme=onedark&no-bg=true&no-frame=true" alt="aibiansari" /></a> </p>
   <br/>
 <hr/>
+
 <h2 align="center">✍️ Random Dev Quote ✍️</h2>
 <br/>
   <p align="center"> <a href="https://github.com/aibiansari"><img  height=200 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"" /></a> </p>
 <hr/>
+
+
 <h2 align="center">✨ Socials ✨</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/603851352690655243)
@@ -114,7 +131,7 @@
 
 
 <br/><br/><br/>
-📬 You can reach me via this [email](mailto:aibiansari1@gmail.com)
+📬 You can reach out to me via this [email](mailto:aibiansari1@gmail.com)
 </div>
 
 <hr/>
