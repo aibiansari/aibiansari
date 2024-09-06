@@ -1,6 +1,6 @@
 <div align="right">
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=aibiansari&label=Profile%20Views&color=0&icon=6&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=aibiansari&label=Profile%20Views&color=0&icon=3&pretty=true" />
 </a>
 </div>
 <h1 align="center">
@@ -98,10 +98,13 @@
 <hr/>
 <h2 align="center">🏆 Trophies 🏆</h2>
 <br/>
-  <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aibiansari&theme=onedark&no-bg=true&no-frame=true" alt="aibiansari" /></a> </p>
+  <p align="center"> <a href="https://github.com/aibiansari"><img src="https://github-profile-trophy.vercel.app/?username=aibiansari&theme=onedark&no-bg=true&no-frame=true" alt="aibiansari" /></a> </p>
   <br/>
 <hr/>
-
+<h2 align="center">✍️ Random Dev Quote ✍️</h2>
+<br/>
+  <p align="center"> <a href="https://github.com/aibiansari"><img  height=200 src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"" /></a> </p>
+<hr/>
 <h2 align="center">✨ Socials ✨</h2>
 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/603851352690655243)
