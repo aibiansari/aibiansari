@@ -83,7 +83,7 @@
 <h2 align="center">⚡Github Stats⚡</h2>
 <br>
 
-<!-- Streak Stats -->
+<!-- Streak Statistics -->
  <p align="center">
    <a href="https://github.com/aibiansari"> 
      <img width="75.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=aibiansari&show_icons=true&locale=en&layout=demo&theme=tokyonight&border_radius=12&hide_border=false" /> 
