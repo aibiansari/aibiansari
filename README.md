@@ -13,25 +13,25 @@
 </h1>
 
 <!-- Subtitle -->
-<h3 align="center">I'm a React Frontend Developer </h3>
+<h3 align="center">I'm a Frontend & Shopify Developer </h3>
 
 <br/>
 
 <!-- Introduction -->
 <div align="center">
   
- 🔭 I’m currently working on my personal projects <a href="https://github.com/aibiansari/schnell-image-generator" target="_blank" class="font-bold text-blue-500 hover:underline">Schnell</a> and <a href="https://github.com/aibiansari/Linkrary" target="_blank" class="font-bold text-blue-500 hover:underline">Linkrary</a>
+ 🔭 I’m currently working on my Upwork projects <a href="https://legitimatestore.it" target="_blank" class="font-bold text-blue-500 hover:underline">LGTMT</a> and <a href="https://vilanci-amsterdam.com" target="_blank" class="font-bold text-blue-500 hover:underline">Vilanci</a>
 
-🌱 I’m passionate about **React, Next.js, TypeScript & Tailwind CSS**
+🌱 I’m passionate about **React, Next.js, TypeScript, Liquid & Shopify Development**
 
-💻 I’ve worked with **HTML, CSS, JavaScript, GoJS, Next.js & React**
+💻 I’ve worked with **HTML, CSS, JavaScript, GoJS, React, Next.js & Liquid**
 
-💬 Ask me about **React, Next.js, Tailwind CSS, Web Development** or anything <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
-
+💬 Ask me about **React, Next.js, Tailwind CSS, Shopify Development, Web Development** or anything <a href="https://github.com/aibiansari/aibiansari/issues" target="_blank" rel="noopener noreferrer" class="text-blue-500 hover:underline">here</a>
 
 🍻 Fun fact : **Skyrim's Map Isn't The Largest In The Elder Scrolls Series**
 
- </div>
+</div>
+
 
  <hr/><br/>
  
