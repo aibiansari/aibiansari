@@ -20,7 +20,7 @@
 <!-- Introduction -->
 <div align="center">
   
- 🔭 I’m currently working on my Upwork projects <a href="https://legitimatestore.it" target="_blank" class="font-bold text-blue-500 hover:underline">LGTMT</a> and <a href="https://vilanci-amsterdam.com" target="_blank" class="font-bold text-blue-500 hover:underline">Vilanci</a>
+ 🔭 I’m currently working on my Upwork projects <a href="https://legitimatestore.it" target="_blank" class="font-bold text-blue-500 hover:underline">LGTMT</a> and <a href="https://weardulo.com" target="_blank" class="font-bold text-blue-500 hover:underline">DULO</a>
 
 🌱 I’m passionate about **React, Next.js, TypeScript, Liquid & Shopify Development**
 
